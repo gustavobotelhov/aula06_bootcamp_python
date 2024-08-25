@@ -25,5 +25,4 @@ profile = "black"
 format = """
 isort main.py
 black main.py
-flake8 main.py
 """
